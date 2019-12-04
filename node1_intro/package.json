@@ -1,0 +1,15 @@
+{
+  "name": "node1_intro",
+  "version": "1.0.0",
+  "description": "This contains all simple demos and examples of introductory node js scripts",
+  "main": "app1_intro.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

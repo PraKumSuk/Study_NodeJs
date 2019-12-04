@@ -1,0 +1,18 @@
+{
+  "name": "node6_docker_d1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "nconf": "^0.10.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

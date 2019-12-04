@@ -1,0 +1,4 @@
+{"message":"The config values obtained from ---> prod are :","level":"info"}
+{"message":"Cdn URL is : http://spk.cdn.com","level":"warn"}
+{"message":"Database host is : 127.0.0.1","level":"error"}
+{"message":"Log Path is : ./log/","level":"info"}

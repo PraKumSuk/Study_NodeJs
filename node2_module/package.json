@@ -1,0 +1,11 @@
+{
+  "name": "node2_module",
+  "version": "1.0.0",
+  "description": "This shows a simple NODE JS use case of a logger, which makes use of a event emitter class\r to identify when a event is generated and how its caught",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
