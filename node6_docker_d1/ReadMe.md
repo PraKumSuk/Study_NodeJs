@@ -21,3 +21,8 @@ docker push praveespkjava/node6_docker_d1:spkv1.0
 you can now find a new repo automatically created with name
 node6_docker_d1, under account praveespkjava with tag name
 spkv1.0
+
+This will also log files to a default volume mount i.e. copy log files generated inside containers i.e. at path /app/log
+to the containers host/guest machines in the default location for e.g. as below depending on profile being run
+///var/lib/docker/volumes/<somelengthyid>/_data/index-dev.log
+///var/lib/docker/volumes/<somelengthyid>/_data/index-prod.log
