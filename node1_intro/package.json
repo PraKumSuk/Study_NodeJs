@@ -4,7 +4,7 @@
   "description": "This contains all simple demos and examples of introductory node js scripts",
   "main": "app1_intro.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
